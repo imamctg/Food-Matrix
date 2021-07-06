@@ -1,8 +1,14 @@
 
+
 body {
     font-family: 'Poppins', sans-serif;
     margin-top: 0px;
     margin-left: 0px;
+}
+
+.nav-menu {
+    margin-top: -13px;
+    margin-right: -8px;
 }
 
 
